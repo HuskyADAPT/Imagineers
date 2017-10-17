@@ -15,4 +15,4 @@ you can change what's on the website by either changing the markdown file on mas
 ## Screenshots
 
 ## Authors
-Vera Chen    Cheyenne Sokkappa    Swetha Ramaswamy    Anthony Ugas 
+Vera Chen, Cheyenne Sokkappa, Swetha Ramaswamy, Anthony Ugas 
