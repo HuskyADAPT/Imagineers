@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/open?id=0Bx3n03-Pr6W8TUlUMW1GYlBjQ2NNcHhmUmVwX0t2X296UkI0" width="170">
+<img src="https://lh3.googleusercontent.com/eyXOgLJMCtC35CDuz_1HQ22yfAtivYTJFYS2r2FMwtIbTZ9MoFWXfo2Y4yiqlLadqmKcXukSCs3I6nWdKyxSlXvrDnZzDy4Z0OvZ=w1652-h881-rw" width="170">
 
 # Imagineers 
 
