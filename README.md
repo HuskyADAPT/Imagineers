@@ -6,7 +6,7 @@
 # LOGO
 
 # Group PROJECT 
-Husky ADAPT repo: please add your team description here!
+Husky ADAPT repo: Day Tracker:Supporting daily communication for mental health
 
 Project Pages site HuskyADAPT.github.io/Imagineers	
 you can change what's on the website by either changing the markdown file on master or a /docs folder on master
