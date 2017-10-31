@@ -15,49 +15,49 @@ Need experts: Jayna & Carolee
 ### Week 1 (Oct 9-15)
 #### Accomplishments
 * Day/Mood Tracker
-..* Inspiration and Existing Solutions: IMoodJournal, Mood, eMoods,Path, Pacifica, Symple
-..* Sense Band
-..* Ideas: Photo Diary, Mood Diary, Wearable Technology
+* Inspiration and Existing Solutions: IMoodJournal, Mood, eMoods,Path, Pacifica, Symple
+* Sense Band
+* Ideas: Photo Diary, Mood Diary, Wearable Technology
 
 #### Objectives
-..* Meet/Speak with Sunshine & Jayna
-..* Develop Profile & Needs Statement
-..* Continue Research & Background Reading
-..* Who else can we interview?
+* Meet/Speak with Sunshine & Jayna
+* Develop Profile & Needs Statement
+* Continue Research & Background Reading
+* Who else can we interview?
 
 #### Issues
 None!
 
 ### Week 2 (Oct 16-22)
 #### Accomplishments
-..* Gained an understanding of other apps in the stree management space
-..* Set up a meeting with Sunshine
-..* Identified our skills and roles
+* Gained an understanding of other apps in the stree management space
+* Set up a meeting with Sunshine
+* Identified our skills and roles
 #### Screenshots APP
 
 #### Objectives
-..* Speak with Sunshine & Jayna on Thursday
-..* Identify research methods and define a research plan
-..* Continue Research & Background Reading
+* Speak with Sunshine & Jayna on Thursday
+* Identify research methods and define a research plan
+* Continue Research & Background Reading
 
 #### Issues
-..* Conflicting time schedules
+Conflicting time schedules
 
 ### Week 3 (Oct 23-29)
 #### Accomplishments
 1. Talked to Sunshine & Jayna! 
-..* Jayna is more of a talker
-..* Jayna has access to iPad and iphone
-..* Details about the bullying
+* Jayna is more of a talker
+* Jayna has access to iPad and iphone
+* Details about the bullying
 
 2. Initial design idea based on the interview
 #### Pictures of interview
 
 #### Objectives
-..* Talk to Jayna and other stakeholders
-..* Follow up with Sunshine about Jayna's requirements and needs
-..* Research on Jayna's disability
-..* Narrow down the project scope
+* Talk to Jayna and other stakeholders
+* Follow up with Sunshine about Jayna's requirements and needs
+* Research on Jayna's disability
+* Narrow down the project scope
 
 #### Issues
 None for this week!
