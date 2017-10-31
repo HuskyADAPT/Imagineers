@@ -14,7 +14,7 @@ Need experts: Jayna & Carolee
 # Weekly AOLs
 ### Week 1 (Oct 9-15)
 #### Accomplishments
-..* Day/Mood Tracker
+* Day/Mood Tracker
 ..* Inspiration and Existing Solutions: IMoodJournal, Mood, eMoods,Path, Pacifica, Symple
 ..* Sense Band
 ..* Ideas: Photo Diary, Mood Diary, Wearable Technology
